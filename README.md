@@ -10,12 +10,12 @@ Hello! My name is Tiago Gomes, but you can call me Teacher Tiago. I’m a Brazil
 ### 1-on-1 Private Lessons
 My private online classes are tailored to your needs—whether you’re a beginner working on grammar or an advanced learner focusing on conversational skills. Here’s the pricing:
 
-- **Single Lesson (60 minutes):** $40.00
-- **4 Lessons Package:** $160.00
-- **8 Lessons Package:** $320.00
-- **12 Lessons Package:** $480.00
-- **24 Lessons Package:** $960.00
-- **48 Lessons Package:** $1,920.00
+- **Single Lesson (60 minutes):** $40.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
+- **4 Lessons Package:** $160.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
+- **8 Lessons Package:** $320.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
+- **12 Lessons Package:** $480.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
+- **24 Lessons Package:** $960.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
+- **48 Lessons Package:** $1,920.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
 
 Each lesson is designed to help you learn effectively and efficiently.
 
@@ -25,17 +25,17 @@ Each lesson is designed to help you learn effectively and efficiently.
 For students interested in a comprehensive learning experience, I offer structured courses covering levels A1 to C2 (beginner to advanced) based on the **Common European Framework of Reference for Languages (CEFR)**. These courses include:
 
 - A **placement test** to determine your starting level.
-- Lessons tailored to your proficiency, progressing to advanced conversational skills.
+- 1-on-1 Private Lessons tailored to your proficiency, progressing to advanced conversational skills.
 - A subscription-based model with significant savings compared to individual lessons:
 
 #### Pricing for Structured Courses:
-- **4 Lessons per Month (1 per week):** $80.00
-- **8 Lessons per Month (2 per week):** $160.00
-- **12 Lessons per Month (3 per week):** $240.00
-- **16 Lessons per Month (4 per week):** $320.00
-- **20 Lessons per Month (5 per week):** $400.00
+- **4 Lessons per Month (1 per week):** $80.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
+- **8 Lessons per Month (2 per week):** $160.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9L3860615G169053GM6KGWDA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
+- **12 Lessons per Month (3 per week):** $240.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2E193837WT547012HM6KGXOI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
+- **16 Lessons per Month (4 per week):** $320.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7MX42179E7832081GM6KG4OA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
+- **20 Lessons per Month (5 per week):** $400.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-74M17201FX865612CM6KG5SI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
 
-At just $20.00 per lesson, these courses are an economical and structured way to learn Portuguese.
+At just $20.00 per 1-on-1 private lesson, these courses are an economical and structured way to learn Portuguese.
 
 ---
 
@@ -77,8 +77,8 @@ At just $20.00 per lesson, these courses are an economical and structured way to
 ## Ready to Start?
 Take the next step in your language learning journey! Whether you prefer flexible private lessons or a structured course, I’m here to help you succeed.
 
-- **Contact Me:** Reach out via email to schedule your class or ask any questions.
-- **Let’s Learn Together:** Book your first lesson today and start speaking with confidence!
+- **[Contact Me](mailto:teachertiagosgomes@gmail.com):** Reach out via email to schedule your class or ask any questions.
+- **[Book Your First Lesson](https://cal.com/teacher-tiago-gomes):** Start speaking with confidence!
 
 ---
 
