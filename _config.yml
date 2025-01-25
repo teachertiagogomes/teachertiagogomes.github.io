@@ -2,7 +2,7 @@ title: Teacher Tiago Gomes
 #logo: /assets/img/minhafoto.png
 description: A short description of your site's purpose
 #show_downloads: true
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 #google_analytics: [Your Google Analytics tracking ID] | But there's another way to tag in the head
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
