@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PAGE-TITLE"
-permalink: /thank-you
+permalink: /thank-you-purchase
 ---
 # Thank You for Your Purchase!  
 
