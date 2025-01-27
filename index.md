@@ -20,6 +20,7 @@ For students interested in a comprehensive learning experience, I offer structur
 - A subscription-based model with significant savings compared to individual lessons:
 
 #### Pricing for Structured Courses:
+
 |Plan|PayPal|Stripe|
 |---|---|---|
 |**4 Lessons per Month (1 per week):** $80.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
