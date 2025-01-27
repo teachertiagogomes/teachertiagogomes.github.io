@@ -12,20 +12,6 @@ Hello! My name is Tiago Gomes, but you can call me Teacher Tiago. I’m a Brazil
 
 ## What Do I Offer?
 
-### 1-on-1 Private Lessons
-My private online classes are tailored to your needs—whether you’re a beginner working on grammar or an advanced learner focusing on conversational skills. Here’s the pricing:
-
-- **Single Lesson (60 minutes):** $40.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
-- **4 Lessons Package:** $160.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
-- **8 Lessons Package:** $320.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
-- **12 Lessons Package:** $480.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
-- **24 Lessons Package:** $960.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
-- **48 Lessons Package:** $1,920.00 [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)
-
-Each lesson is designed to help you learn effectively and efficiently.
-
----
-
 ### Structured Portuguese Language Courses (PLE - Português Língua Estrangeira)
 For students interested in a comprehensive learning experience, I offer structured courses covering levels A1 to C2 (beginner to advanced) based on the **Common European Framework of Reference for Languages (CEFR)**. These courses include:
 
@@ -34,13 +20,32 @@ For students interested in a comprehensive learning experience, I offer structur
 - A subscription-based model with significant savings compared to individual lessons:
 
 #### Pricing for Structured Courses:
-- **4 Lessons per Month (1 per week):** $80.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
-- **8 Lessons per Month (2 per week):** $160.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9L3860615G169053GM6KGWDA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
-- **12 Lessons per Month (3 per week):** $240.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2E193837WT547012HM6KGXOI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
-- **16 Lessons per Month (4 per week):** $320.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7MX42179E7832081GM6KG4OA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
-- **20 Lessons per Month (5 per week):** $400.00 [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-74M17201FX865612CM6KG5SI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)
+|Plan|PayPal|Stripe|
+|---|---|---|
+|**4 Lessons per Month (1 per week):** $80.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
+|**8 Lessons per Month (2 per week):** $160.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9L3860615G169053GM6KGWDA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
+|**12 Lessons per Month (3 per week):** $240.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2E193837WT547012HM6KGXOI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
+|**16 Lessons per Month (4 per week):** $320.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7MX42179E7832081GM6KG4OA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
+|**20 Lessons per Month (5 per week):** $400.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-74M17201FX865612CM6KG5SI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
 
-At just $20.00 per 1-on-1 private lesson, these courses are an economical and structured way to learn Portuguese.
+> [!TIP]
+> At just **$20.00** per 1-on-1 private lesson — ***50% off the price of single lessons or lesson packages*** — these courses are an **economical and structured way to learn Portuguese**.
+
+---
+
+### 1-on-1 Private Lessons
+My private online classes are tailored to your needs—whether you’re a beginner working on grammar or an advanced learner focusing on conversational skills. Here’s the pricing:
+
+|Package|PayPal|Stripe|
+|---|---|---|
+|**Single Lesson (60 minutes):** $40.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
+|**4 Lessons Package:** $160.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
+|**8 Lessons Package:** $320.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
+|**12 Lessons Package:** $480.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
+|**24 Lessons Package:** $960.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
+|**48 Lessons Package:** $1,920.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
+
+Each lesson is designed to help you learn effectively and efficiently.
 
 ---
 
