@@ -1,3 +1,8 @@
+---
+layout: default
+title: "PAGE-TITLE"
+permalink: /thank-you
+---
 # Thank You for Your Purchase!  
 
 We’re thrilled to have you join Teacher Tiago’s language classes! 🎉  
