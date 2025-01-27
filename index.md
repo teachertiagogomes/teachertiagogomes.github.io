@@ -1,3 +1,8 @@
+---
+layout: default
+title: "PAGE-TITLE"
+permalink: /index
+---
 # Welcome to Teacher Tiago Gomes' Online Language Classes
 
 ## Who is Teacher Tiago Gomes?
