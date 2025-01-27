@@ -76,21 +76,21 @@ If you’re interested in joining a group class, please fill out the **waiting l
 ## Policies
 
 ### Cancellation Policy
-- Schedule your class at least **48 hours in advance**.
-- You can reschedule or cancel your class up to **24 hours before** the scheduled time.
-- Cancellations made less than 24 hours in advance will be charged as a 1-hour class.
+- Schedule your class **at least 48 hours in advance**.
+- You can reschedule or cancel your class **up to 24 hours before** the scheduled time.
+- Cancellations made **less than 24 hours in advance** will be charged as a 1-hour class.
 
 ---
 
 ### Refund Policy
 - **Private Lessons:**
   - Full refunds are available within **14 days** of enrollment **if no classes have been taken**.
-  - Partial refunds (50% of remaining classes) are available after your first class.
+  - Partial refunds (50% of remaining classes) are available **after your first class**.
 
   **Example:**
   - If you purchase a 12-class package ($480.00) and request a refund **after attending 3 classes**:
     - You’ve used $120.00 (3 x $40.00).
-    - Your refund is $180.00: (($480.00 - $120.00) / 2).
+    - Your refund is $180.00: (($480.00 - $120.00) / 2).  
 
 - **Structured Course Subscriptions:**
   - Full refunds are available **before the first class of your billing cycle**.
