@@ -23,11 +23,11 @@ For students interested in a comprehensive learning experience, I offer structur
 
 |Plan|PayPal|Stripe|
 |---|---|---|
-|**4 Lessons per Month (1 per week):** $80.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
-|**8 Lessons per Month (2 per week):** $160.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9L3860615G169053GM6KGWDA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
-|**12 Lessons per Month (3 per week):** $240.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2E193837WT547012HM6KGXOI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
-|**16 Lessons per Month (4 per week):** $320.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7MX42179E7832081GM6KG4OA) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
-|**20 Lessons per Month (5 per week):** $400.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-74M17201FX865612CM6KG5SI) | [Subscribe with Stripe](https://your-stripe-subscription-link.com)|
+|**4 Lessons per Month (1 per week):** $80.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://buy.stripe.com/aEUdQY6FS1Ld2aYbIO)|
+|**8 Lessons per Month (2 per week):** $160.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9L3860615G169053GM6KGWDA) | [Subscribe with Stripe](https://buy.stripe.com/3cs7sA1ly4Xp3f2cMT)|
+|**12 Lessons per Month (3 per week):** $240.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2E193837WT547012HM6KGXOI) | [Subscribe with Stripe](https://buy.stripe.com/14keV22pCblN6recMU)|
+|**16 Lessons per Month (4 per week):** $320.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7MX42179E7832081GM6KG4OA) | [Subscribe with Stripe](https://buy.stripe.com/dR68wEaW8gG79Dq009)|
+|**20 Lessons per Month (5 per week):** $400.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-74M17201FX865612CM6KG5SI) | [Subscribe with Stripe](https://buy.stripe.com/dR6eV27JWcpR16U5ku)|
 
 > **Tip**: At just **$20.00** per 1-on-1 private lesson — ***50% off the price of single lessons or lesson packages*** — these courses are an **economical and structured way to learn Portuguese**.
 
@@ -38,12 +38,12 @@ My private online classes are tailored to your needs, whether you’re a beginne
 
 |Package|PayPal|Stripe|
 |---|---|---|
-|**Single Lesson (60 minutes):** $40.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
-|**4 Lessons Package:** $160.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
-|**8 Lessons Package:** $320.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
-|**12 Lessons Package:** $480.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
-|**24 Lessons Package:** $960.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
-|**48 Lessons Package:** $1,920.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://your-stripe-link.com)|
+|**Single Lesson (60 minutes):** $40.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/bIY9AI1ly61t3f26oo)|
+|**4 Lessons Package:** $160.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/aEU6owggsfC33f2dQR)|
+|**8 Lessons Package:** $320.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/8wMdQY8O075x4j65km)|
+|**12 Lessons Package:** $480.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/8wM7sA8O0cpR8zm9AD)|
+|**24 Lessons Package:** $960.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/14k8wE3tGfC36re28c)|
+|**48 Lessons Package:** $1,920.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/7sIaEMggsahJbLyeUZ)|
 
 Each lesson is designed to help you learn effectively and efficiently.
 
