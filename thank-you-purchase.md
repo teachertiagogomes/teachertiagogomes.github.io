@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PAGE-TITLE"
+title: "Thank You"
 permalink: /thank-you-purchase
 ---
 # Thank You for Your Purchase!  
