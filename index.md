@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PAGE-TITLE"
+title: ""
 permalink: /index
 ---
 # Welcome to Teacher Tiago Gomes' Online Language Classes
