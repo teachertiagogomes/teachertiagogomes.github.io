@@ -60,7 +60,8 @@ Each group lesson costs just **USD 10.00 per student**, offering:
 - **50% off** compared to structured 1-on-1 courses.
 
 If you’re interested in joining a group class, please fill out the **waiting list form** by clicking the link below:  
-[Join the Waiting List!](https://MEUCADASTRODEESPERA.COM)  
+
+|[Join the Waiting List!](https://forms.gle/oo29Ykyyj7eKLCU89)|  
 
 ---
 
