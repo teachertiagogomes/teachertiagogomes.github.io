@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PAGE-TITLE"
+title: "Thank You"
 permalink: /thank-you-scheduling
 ---
 # Thank You for Scheduling Your Lesson!  
