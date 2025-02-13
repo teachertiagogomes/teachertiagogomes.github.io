@@ -19,31 +19,31 @@ For students interested in a comprehensive learning experience, I offer structur
 - **1-on-1 Private Lessons** tailored to your proficiency, progressing to advanced conversational skills.
 - A **subscription-based model with significant savings** compared to individual lessons:
 
-#### Pricing for Structured Courses:
+#### Pricing for Structured Courses (1-on-1 lessons):
 
 |Plan|PayPal|Stripe|
 |---|---|---|
-|**4 Lessons per Month (1 per week):** $80.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://buy.stripe.com/aEUdQY6FS1Ld2aYbIO)|
-|**8 Lessons per Month (2 per week):** $160.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9L3860615G169053GM6KGWDA) | [Subscribe with Stripe](https://buy.stripe.com/3cs7sA1ly4Xp3f2cMT)|
-|**12 Lessons per Month (3 per week):** $240.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2E193837WT547012HM6KGXOI) | [Subscribe with Stripe](https://buy.stripe.com/14keV22pCblN6recMU)|
-|**16 Lessons per Month (4 per week):** $320.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7MX42179E7832081GM6KG4OA) | [Subscribe with Stripe](https://buy.stripe.com/dR68wEaW8gG79Dq009)|
-|**20 Lessons per Month (5 per week):** $400.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-74M17201FX865612CM6KG5SI) | [Subscribe with Stripe](https://buy.stripe.com/dR6eV27JWcpR16U5ku)|
+|**4 Lessons per Month (1 per week):** $60.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9CN04948JV6346900M6KGT3Q) | [Subscribe with Stripe](https://buy.stripe.com/aEUdQY6FS1Ld2aYbIO)|
+|**8 Lessons per Month (2 per week):** $120.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9L3860615G169053GM6KGWDA) | [Subscribe with Stripe](https://buy.stripe.com/3cs7sA1ly4Xp3f2cMT)|
+|**12 Lessons per Month (3 per week):** $180.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2E193837WT547012HM6KGXOI) | [Subscribe with Stripe](https://buy.stripe.com/14keV22pCblN6recMU)|
+|**16 Lessons per Month (4 per week):** $240.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7MX42179E7832081GM6KG4OA) | [Subscribe with Stripe](https://buy.stripe.com/dR68wEaW8gG79Dq009)|
+|**20 Lessons per Month (5 per week):** $300.00 | [Subscribe with PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-74M17201FX865612CM6KG5SI) | [Subscribe with Stripe](https://buy.stripe.com/dR6eV27JWcpR16U5ku)|
 
-> **Tip**: At just **$20.00** per 1-on-1 private lesson — ***50% off the price of single lessons or lesson packages*** — these courses are an **economical and structured way to learn Portuguese**.
+> **Tip**: At just **$15.00** per 1-on-1 private lesson — ***50% off the price of single lessons or lesson packages*** — these courses are an **economical and structured way to learn Portuguese**.
 
 ---
 
-### 1-on-1 Private Lessons
+### 1-on-1 Private Lessons And Packages
 My private online classes are tailored to your needs, whether you’re a beginner working on grammar or an advanced learner focusing on conversational skills. Here’s the pricing:
 
 |Package|PayPal|Stripe|
 |---|---|---|
-|**Single Lesson (60 minutes):** $40.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/bIY9AI1ly61t3f26oo)|
-|**4 Lessons Package:** $160.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/aEU6owggsfC33f2dQR)|
-|**8 Lessons Package:** $320.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/8wMdQY8O075x4j65km)|
-|**12 Lessons Package:** $480.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/8wM7sA8O0cpR8zm9AD)|
-|**24 Lessons Package:** $960.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/14k8wE3tGfC36re28c)|
-|**48 Lessons Package:** $1,920.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/7sIaEMggsahJbLyeUZ)|
+|**Single Lesson (60 minutes):** $30.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/bIY9AI1ly61t3f26oo)|
+|**4 Lessons Package (10% off):** $108.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/aEU6owggsfC33f2dQR)|
+|**8 Lessons Package (20% off):** $192.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/8wMdQY8O075x4j65km)|
+|**12 Lessons Package (30% off):** $252.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/8wM7sA8O0cpR8zm9AD)|
+|**24 Lessons Package (40% off):** $432.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/14k8wE3tGfC36re28c)|
+|**48 Lessons Package (50% off):** $720.00 | [Buy with PayPal](https://www.paypal.com/ncp/payment/HQF8ZEDZSSKF8) | [Buy with Stripe](https://buy.stripe.com/7sIaEMggsahJbLyeUZ)|
 
 Each lesson is designed to help you learn effectively and efficiently.
 
@@ -56,8 +56,8 @@ I also offer **small group classes** for **4 to 8 students per group**. These cl
 To ensure the best learning experience, **all students in the group must be at the same proficiency level**. Classes will only begin once the group has a **minimum of 4 students**.  
 
 Each group lesson costs just **USD 10.00 per student**, offering:
-- **75% off** compared to individual 1-on-1 lessons.
-- **50% off** compared to structured 1-on-1 courses.
+- **66,66% off** compared to individual 1-on-1 lessons.
+- **33,33% off** compared to structured 1-on-1 courses.
 
 If you’re interested in joining a group class, please fill out the **waiting list form** by clicking the link below:  
 
@@ -67,7 +67,7 @@ If you’re interested in joining a group class, please fill out the **waiting l
 
 ## How Do Classes Work?
 - **Platform:** Classes are held via Google Meet.
-- **Requirements:** All you need is a computer or tablet and a reliable internet connection.
+- **Requirements:** All you need is a computer or a tablet or a smartphone and a reliable internet connection.
 - **Materials:** Personalized lessons based on your level and learning objectives. Basic materials are included, and additional resources may be recommended if necessary.
 - **Schedule:** Lessons are 55-60 minutes long, and I’m available Monday to Sunday, from 8:00 AM to 10:00 PM (Brasília Time UTC-3).
 - **Recordings:** Classes can be recorded for your personal review. Just let me know if you’d like this option.
@@ -89,9 +89,9 @@ If you’re interested in joining a group class, please fill out the **waiting l
   - Partial refunds (50% of remaining classes) are available **after your first class**.
 
   **Example:**
-  - If you purchase a 12-class package ($480.00) and request a refund **after attending 3 classes**:
-    - You’ve used $120.00 (3 x $40.00).
-    - Your refund is $180.00: (($480.00 - $120.00) / 2).  
+  - If you purchase a 12 Lessons Package (30% off) $252.00 and request a refund **after attending 3 classes**:
+    - You’ve used $63.00 (3 x $21.00).
+    - Your refund is $94.50: (($252.00 - $63.00) / 2).  
 
 - **Structured Course Subscriptions:**
   - Full refunds are available **before the first class of your billing cycle**.
